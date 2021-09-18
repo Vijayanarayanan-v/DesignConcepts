@@ -1,0 +1,6 @@
+.vs/*
+*.config
+*.sln
+TicTacToe/obj/*
+TicTacToe/Properties/*
+TicTacToe/bin/*
